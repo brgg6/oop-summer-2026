@@ -1,2 +1,3 @@
-#my name
-print("Yevhen")
+list = ["apple","banana","orange"]
+for x in list:
+    print(x)
